@@ -1,14 +1,14 @@
-# Welcome to My Terminal Profile! 🖥️  
+<div align="center">
+  <img src="https://i.imgur.com/8M9ZQ9c.png" width="300" alt="8-bit Avatar">  
+</div>
 
-```bash
-$ whoami  
-> [Seu Nome] - DevOps Engineer | Open-Source Enthusiast  
+# 🕹️ Player1: [Seu Nome]  
 
-$ skills --list  
-> Python | Docker | Kubernetes | AWS  
+**🎮 High Scores:**  
+- 🏆 Criei um jogo em Unity  
+- 🎯 Contribuí para [Projeto Open-Source]  
 
-$ contact --social  
-> LinkedIn: [link] | Twitter: [@user]  
-
-$ cat projects/README.md  
-> 🔧 [API em Go](https://github.com/...) | 🛠️ [Terraform Modules](https://github.com/...)  
+**💾 Loading Skills...**  
+```javascript
+const skills = ["C#", "Pixel Art", "Godot"];  
+console.log(skills.join(" | "));  
