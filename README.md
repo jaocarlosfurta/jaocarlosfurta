@@ -1,14 +1,24 @@
+
 <div align="center">
-  <img src="https://i.imgur.com/8M9ZQ9c.png" width="300" alt="8-bit Avatar">  
+  <img src="https://i.gifer.com/ZZ57.gif" width="200" alt="Pixel Art Avatar">
 </div>
 
-# 🕹️ Player1: [Seu Nome]  
+# 🕹️ PLAYER: [JOÃO CARLOS FURTADO DA SILVA]
 
-**🎮 High Scores:**  
-- 🏆 Criei um jogo em Unity  
-- 🎯 Contribuí para [Projeto Open-Source]  
+> **"GAME OVER? PRESS START TO CONTINUE"**
 
-**💾 Loading Skills...**  
+
+## 🏆 HIGH SCORES 
+| PROJETO          | DESCRIÇÃO                  | 
+|------------------|----------------------------|
+|         | 
+|         |
+
 ```javascript
-const skills = ["C#", "Pixel Art", "Godot"];  
-console.log(skills.join(" | "));  
+// 🎮 SKILLS.JS
+const playerSkills = {
+  languages: ["C#", "GDScript", "Lua"],
+  tools: ["Unity", "Tiled", "Aseprite"],
+  level: 99
+};
+console.log("READY!");
