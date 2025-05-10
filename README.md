@@ -1,16 +1,24 @@
-## Hi there 👋
+# ![Windows XP Logo](https://img.icons8.com/color/48/000000/windows-xp.png) Bem-vindo ao meu perfil no estilo Windows XP!  
 
-<!--
-**jaocarlosfurta/jaocarlosfurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://i.imgur.com/3YQZl5A.png" alt="Windows XP Bliss Wallpaper" width="600" />
+</div>
 
-Here are some ideas to get you started:
+## 🖥️ **Sistema Operacional: DevOS XP**  
+**Usuário:** `SeuNome`  
+**RAM:** `Código + Café`  
+**Disco Rígido:** `Projetos infinitos`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🗂️ **Pastas Principais**  
+| Ícone         | Programa          | Descrição                          |  
+|--------------|------------------|----------------------------------|  
+| 📁           | **Projetos**     | Meus repositórios em destaque.     |  
+| 💻           | **Skills**       | Linguagens e ferramentas que uso.  |  
+| 📧           | **Contato**      | Onde me encontrar.                 |  
+
+---
+
+### 🚀 **Iniciar > Programas > Meus Projetos**  
+```bash
