@@ -7,7 +7,7 @@ Me chamo João Carlos Furtado da Silva, tenho 24 anos, natural do Maranhão, Té
 
 ---
 
-<h3><center><b> 🤖 Linguagens 🤖 </b></center><h3>
+<h3><center><b>🤖 Linguagens 🤖</b></center><h3>
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
