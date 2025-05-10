@@ -50,3 +50,15 @@ Me chamo João Carlos Furtado da Silva, tenho 24 anos, natural do Maranhão, Té
 </div>
 
 ---
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="300" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jaocarlosfurta&show_icons=true&theme=calm_pink&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
