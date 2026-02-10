@@ -14,13 +14,14 @@ Me chamo João Carlos Furtado da Silva, tenho 24 anos e sou natural do Maranhão
 
 <div align="center" style="display: inline">
     <h3>Estudando Atualmente<h3><br>
-    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"     />
+    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
     &nbsp;
     <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"      />
     &nbsp;
-    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"      />
+    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"     />
     &nbsp;
-    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>     
+    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"      />
+         
 </div>
 
 ---
