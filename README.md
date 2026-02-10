@@ -4,8 +4,8 @@
 
 Me chamo João Carlos Furtado da Silva, tenho 24 anos e sou natural do Maranhão.
 
- - Técnico em Informática e Comunicação (IFMA Campus Caxias).
- - 5º Periodo de Ciências da Computação (IFMA Campus Caxias).
+ - Técnico em Informática e Comunicação (IFMA Campus Caxias). (2016-2018)
+ - 5º Periodo de Ciências da Computação (IFMA Campus Caxias). (2024-Atualmente)
  - Possuo interesse nas áreas de GameDev e Segurança de Dados.
  
 ---
