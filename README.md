@@ -12,9 +12,8 @@ Me chamo João Carlos Furtado da Silva, tenho 24 anos e sou natural do Maranhão
  
 ---
 
-<h3 style="text-align:center;">Estudando Atualmente</h3>
-
 <div align="center" style="display: inline">
+    <br><h3>Estudando Atualmente<h3><br>
     <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"     />
     &nbsp;
     <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"      />
