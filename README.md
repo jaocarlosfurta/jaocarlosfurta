@@ -2,7 +2,7 @@
 
 ---
 
-**`Estudante de Ciências da Computação`**
+### **`Estudante de Ciências da Computação`**
 
 Me chamo João Carlos Furtado da Silva, tenho 24 anos e sou natural do Maranhão.
 
@@ -12,12 +12,13 @@ Me chamo João Carlos Furtado da Silva, tenho 24 anos e sou natural do Maranhão
  
 ---
 
-**`Estudando Atualmente:`**
+### **`Estudando Atualmente`**
 
 <div style="display: inline">
-    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  />
-    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  />
-    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"      />      
+    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"     />
+    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"      />
+    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"      />
+    <img width='45' weight='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>     
 </div>
 
+---
