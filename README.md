@@ -1,8 +1,6 @@
-# **João Carlos**
+<h1 align="center">João Carlos Furtado<h1>
 
 ---
-
-### **`Estudante de Ciências da Computação`**
 
 Me chamo João Carlos Furtado da Silva, tenho 24 anos e sou natural do Maranhão.
 
