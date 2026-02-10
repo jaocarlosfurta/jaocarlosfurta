@@ -1,4 +1,4 @@
-<h1 align="center">João Carlos Furtado<h1>
+<h1 align="center">João Carlos Furtado</h1>
 
 ---
 
