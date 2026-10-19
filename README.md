@@ -1,25 +1,30 @@
-<h1>João Carlos Furtado</h1>
+<h1>Olá, eu sou João Carlos Furtado 👋</h1>
 
----
+<p>
+  Sou estudante de Ciência da Computação no IFMA Campus Caxias e técnico em
+  Informática e Comunicação. Tenho interesse em desenvolvimento de jogos e
+  segurança da informação.
+</p>
 
-Me chamo João Carlos Furtado da Silva, tenho 25 anos e sou natural do Maranhão.
+<ul>
+  <li>Técnico em Informática e Comunicação — IFMA Campus Caxias (2016–2018)</li>
+  <li>Graduando em Ciência da Computação — IFMA Campus Caxias (desde 2024)</li>
+</ul>
 
- - Técnico em Informática e Comunicação (IFMA Campus Caxias). (2016-2018)
- - 5º Periodo de Ciências da Computação (IFMA Campus Caxias). (2024-Atualmente)
- - Possuo interesse nas áreas de GameDev e Segurança de Dados.
- 
----
+<h2>Estudando atualmente</h2>
 
-<div align="center" style="display: inline">
-    <h3>Estudando Atualmente<h3><br>
-    <img width='60' weight='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-    &nbsp;
-    <img width='60' weight='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"      />
-    &nbsp;
-    <img width='60' weight='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"     />
-    &nbsp;
-    <img width='60' weight='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"      />
-         
-</div>
+<p>
+  <img width="50" height="50" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img width="50" height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img width="50" height="50" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img width="50" height="50" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+</p>
 
----
+<h2>GitHub</h2>
+
+<p>
+  <img height="165" alt="Estatísticas do GitHub"
+    src="https://github-readme-stats.vercel.app/api?username=jaocarlosfurta&show_icons=true&theme=transparent&locale=pt-br">
+  <img height="165" alt="Linguagens mais usadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocarlosfurta&layout=compact&theme=transparent&locale=pt-br">
+</p>
